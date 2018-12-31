@@ -1,0 +1,6 @@
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex18\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex18\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex18\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex18\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex18\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex18\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

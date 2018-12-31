@@ -1,0 +1,6 @@
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex678910\NumOps\NumOps\bin\Debug\NumOps.exe.config
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex678910\NumOps\NumOps\bin\Debug\NumOps.exe
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex678910\NumOps\NumOps\bin\Debug\NumOps.pdb
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex678910\NumOps\NumOps\obj\Debug\NumOps.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex678910\NumOps\NumOps\obj\Debug\NumOps.exe
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex678910\NumOps\NumOps\obj\Debug\NumOps.pdb

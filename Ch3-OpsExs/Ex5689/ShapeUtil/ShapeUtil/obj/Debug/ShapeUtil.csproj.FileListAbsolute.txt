@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex56\ShapeUtil\ShapeUtil\obj\Debug\ShapeUtil.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex56\ShapeUtil\ShapeUtil\bin\Debug\ShapeUtil.exe.config
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex56\ShapeUtil\ShapeUtil\bin\Debug\ShapeUtil.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex56\ShapeUtil\ShapeUtil\bin\Debug\ShapeUtil.pdb
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex56\ShapeUtil\ShapeUtil\obj\Debug\ShapeUtil.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex56\ShapeUtil\ShapeUtil\obj\Debug\ShapeUtil.pdb
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex56\ShapeUtil\ShapeUtil\obj\Debug\ShapeUtil.csprojAssemblyReference.cache

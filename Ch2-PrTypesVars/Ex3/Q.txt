@@ -1,0 +1,1 @@
+Write a program, which compares correctly two real numbers with accuracy at least 0.000001.

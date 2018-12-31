@@ -1,0 +1,3 @@
+Two floating-point variables are considered equal if their difference is less than some predefined precision 
+(e.g. 0.000001): 
+bool equal = Math.Abs(a - b) < 0.000001

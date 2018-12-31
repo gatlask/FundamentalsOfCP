@@ -1,0 +1,6 @@
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex-12\EmpRec\EmpRec\bin\Debug\EmpRec.exe.config
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex-12\EmpRec\EmpRec\bin\Debug\EmpRec.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex-12\EmpRec\EmpRec\bin\Debug\EmpRec.pdb
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex-12\EmpRec\EmpRec\obj\Debug\EmpRec.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex-12\EmpRec\EmpRec\obj\Debug\EmpRec.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex-12\EmpRec\EmpRec\obj\Debug\EmpRec.pdb

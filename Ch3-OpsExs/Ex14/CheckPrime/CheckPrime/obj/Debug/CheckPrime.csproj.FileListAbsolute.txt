@@ -1,0 +1,6 @@
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex14\CheckPrime\CheckPrime\obj\Debug\CheckPrime.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex14\CheckPrime\CheckPrime\bin\Debug\CheckPrime.exe.config
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex14\CheckPrime\CheckPrime\bin\Debug\CheckPrime.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex14\CheckPrime\CheckPrime\bin\Debug\CheckPrime.pdb
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex14\CheckPrime\CheckPrime\obj\Debug\CheckPrime.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex14\CheckPrime\CheckPrime\obj\Debug\CheckPrime.pdb

@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex17\EucledianAlg\EucledianAlg\bin\Debug\EucledianAlg.exe.config
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex17\EucledianAlg\EucledianAlg\bin\Debug\EucledianAlg.exe
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex17\EucledianAlg\EucledianAlg\bin\Debug\EucledianAlg.pdb
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex17\EucledianAlg\EucledianAlg\obj\Debug\EucledianAlg.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex17\EucledianAlg\EucledianAlg\obj\Debug\EucledianAlg.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex17\EucledianAlg\EucledianAlg\obj\Debug\EucledianAlg.exe
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex17\EucledianAlg\EucledianAlg\obj\Debug\EucledianAlg.pdb

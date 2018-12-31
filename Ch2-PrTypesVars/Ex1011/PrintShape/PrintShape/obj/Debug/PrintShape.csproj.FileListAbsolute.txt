@@ -1,0 +1,6 @@
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1011\PrintShape\PrintShape\bin\Debug\PrintShape.exe.config
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1011\PrintShape\PrintShape\bin\Debug\PrintShape.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1011\PrintShape\PrintShape\bin\Debug\PrintShape.pdb
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1011\PrintShape\PrintShape\obj\Debug\PrintShape.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1011\PrintShape\PrintShape\obj\Debug\PrintShape.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1011\PrintShape\PrintShape\obj\Debug\PrintShape.pdb

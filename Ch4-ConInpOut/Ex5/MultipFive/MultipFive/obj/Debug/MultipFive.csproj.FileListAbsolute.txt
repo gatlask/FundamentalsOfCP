@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex5\MultipFive\MultipFive\obj\Debug\MultipFive.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex5\MultipFive\MultipFive\obj\Debug\MultipFive.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex5\MultipFive\MultipFive\bin\Debug\MultipFive.exe.config
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex5\MultipFive\MultipFive\bin\Debug\MultipFive.exe
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex5\MultipFive\MultipFive\bin\Debug\MultipFive.pdb
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex5\MultipFive\MultipFive\obj\Debug\MultipFive.exe
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex5\MultipFive\MultipFive\obj\Debug\MultipFive.pdb

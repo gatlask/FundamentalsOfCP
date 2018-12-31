@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch7-Arrays\Ex1\ArrayInit\ArrayInit\bin\Debug\ArrayInit.exe.config
+D:\Training\FundamentalsOfCP\Ch7-Arrays\Ex1\ArrayInit\ArrayInit\bin\Debug\ArrayInit.exe
+D:\Training\FundamentalsOfCP\Ch7-Arrays\Ex1\ArrayInit\ArrayInit\bin\Debug\ArrayInit.pdb
+D:\Training\FundamentalsOfCP\Ch7-Arrays\Ex1\ArrayInit\ArrayInit\obj\Debug\ArrayInit.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch7-Arrays\Ex1\ArrayInit\ArrayInit\obj\Debug\ArrayInit.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch7-Arrays\Ex1\ArrayInit\ArrayInit\obj\Debug\ArrayInit.exe
+D:\Training\FundamentalsOfCP\Ch7-Arrays\Ex1\ArrayInit\ArrayInit\obj\Debug\ArrayInit.pdb

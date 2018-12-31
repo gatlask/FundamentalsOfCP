@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex1\CardSuits\CardSuits\obj\Debug\CardSuits.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex1\CardSuits\CardSuits\bin\Debug\CardSuits.exe.config
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex1\CardSuits\CardSuits\bin\Debug\CardSuits.exe
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex1\CardSuits\CardSuits\bin\Debug\CardSuits.pdb
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex1\CardSuits\CardSuits\obj\Debug\CardSuits.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex1\CardSuits\CardSuits\obj\Debug\CardSuits.exe
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex1\CardSuits\CardSuits\obj\Debug\CardSuits.pdb

@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex6\FactorialUtil\FactorialUtil\obj\Debug\FactorialUtil.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex6\FactorialUtil\FactorialUtil\bin\Debug\FactorialUtil.exe.config
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex6\FactorialUtil\FactorialUtil\bin\Debug\FactorialUtil.exe
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex6\FactorialUtil\FactorialUtil\bin\Debug\FactorialUtil.pdb
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex6\FactorialUtil\FactorialUtil\obj\Debug\FactorialUtil.exe
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex6\FactorialUtil\FactorialUtil\obj\Debug\FactorialUtil.pdb
+D:\Training\FundamentalsOfCP\Ch6-Loops\Ex6\FactorialUtil\FactorialUtil\obj\Debug\FactorialUtil.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex11\NumberWords\NumberWords\bin\Debug\NumberWords.exe.config
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex11\NumberWords\NumberWords\bin\Debug\NumberWords.exe
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex11\NumberWords\NumberWords\bin\Debug\NumberWords.pdb
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex11\NumberWords\NumberWords\obj\Debug\NumberWords.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex11\NumberWords\NumberWords\obj\Debug\NumberWords.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex11\NumberWords\NumberWords\obj\Debug\NumberWords.exe
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex11\NumberWords\NumberWords\obj\Debug\NumberWords.pdb

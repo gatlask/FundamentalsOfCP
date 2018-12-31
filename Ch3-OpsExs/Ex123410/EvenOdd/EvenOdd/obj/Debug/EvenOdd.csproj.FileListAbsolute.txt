@@ -1,0 +1,14 @@
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe.config
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1\EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1\EvenOdd\EvenOdd\obj\Debug\EvenOdd.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1\EvenOdd\EvenOdd\obj\Debug\EvenOdd.pdb
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex12341011\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex12341011\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex12341011\EvenOdd\EvenOdd\obj\Debug\EvenOdd.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex12341011\EvenOdd\EvenOdd\obj\Debug\EvenOdd.pdb
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex12341011\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe.config
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex12341011\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex12341011\EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb

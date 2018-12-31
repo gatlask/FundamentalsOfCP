@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex2\PosorNeg\PosorNeg\bin\Debug\PosorNeg.exe.config
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex2\PosorNeg\PosorNeg\bin\Debug\PosorNeg.exe
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex2\PosorNeg\PosorNeg\bin\Debug\PosorNeg.pdb
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex2\PosorNeg\PosorNeg\obj\Debug\PosorNeg.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex2\PosorNeg\PosorNeg\obj\Debug\PosorNeg.exe
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex2\PosorNeg\PosorNeg\obj\Debug\PosorNeg.pdb
+D:\Training\FundamentalsOfCP\Ch5-CondStats\Ex2\PosorNeg\PosorNeg\obj\Debug\PosorNeg.csprojAssemblyReference.cache

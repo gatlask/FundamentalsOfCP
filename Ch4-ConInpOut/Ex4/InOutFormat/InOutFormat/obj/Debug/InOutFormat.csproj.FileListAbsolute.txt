@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex4\InOutFormat\InOutFormat\bin\Debug\InOutFormat.exe.config
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex4\InOutFormat\InOutFormat\bin\Debug\InOutFormat.exe
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex4\InOutFormat\InOutFormat\bin\Debug\InOutFormat.pdb
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex4\InOutFormat\InOutFormat\obj\Debug\InOutFormat.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex4\InOutFormat\InOutFormat\obj\Debug\InOutFormat.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex4\InOutFormat\InOutFormat\obj\Debug\InOutFormat.exe
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex4\InOutFormat\InOutFormat\obj\Debug\InOutFormat.pdb

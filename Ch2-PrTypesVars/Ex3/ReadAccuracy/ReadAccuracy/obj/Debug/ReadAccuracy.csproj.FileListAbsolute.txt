@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex3\ReadAccuracy\ReadAccuracy\bin\Debug\ReadAccuracy.exe.config
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex3\ReadAccuracy\ReadAccuracy\bin\Debug\ReadAccuracy.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex3\ReadAccuracy\ReadAccuracy\bin\Debug\ReadAccuracy.pdb
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex3\ReadAccuracy\ReadAccuracy\obj\Debug\ReadAccuracy.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex3\ReadAccuracy\ReadAccuracy\obj\Debug\ReadAccuracy.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex3\ReadAccuracy\ReadAccuracy\obj\Debug\ReadAccuracy.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex3\ReadAccuracy\ReadAccuracy\obj\Debug\ReadAccuracy.pdb

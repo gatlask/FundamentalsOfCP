@@ -1,0 +1,6 @@
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex7\WeightonMoon\WeightonMoon\bin\Debug\WeightonMoon.exe.config
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex7\WeightonMoon\WeightonMoon\bin\Debug\WeightonMoon.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex7\WeightonMoon\WeightonMoon\bin\Debug\WeightonMoon.pdb
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex7\WeightonMoon\WeightonMoon\obj\Debug\WeightonMoon.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex7\WeightonMoon\WeightonMoon\obj\Debug\WeightonMoon.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex7\WeightonMoon\WeightonMoon\obj\Debug\WeightonMoon.pdb

@@ -1,0 +1,6 @@
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex456789\Initialize\Initialize\bin\Debug\Initialize.exe.config
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex456789\Initialize\Initialize\bin\Debug\Initialize.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex456789\Initialize\Initialize\bin\Debug\Initialize.pdb
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex456789\Initialize\Initialize\obj\Debug\Initialize.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex456789\Initialize\Initialize\obj\Debug\Initialize.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex456789\Initialize\Initialize\obj\Debug\Initialize.pdb

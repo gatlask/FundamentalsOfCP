@@ -1,0 +1,6 @@
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1\VarTypes\VarTypes\bin\Debug\VarTypes.exe.config
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1\VarTypes\VarTypes\bin\Debug\VarTypes.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1\VarTypes\VarTypes\bin\Debug\VarTypes.pdb
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1\VarTypes\VarTypes\obj\Debug\VarTypes.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1\VarTypes\VarTypes\obj\Debug\VarTypes.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex1\VarTypes\VarTypes\obj\Debug\VarTypes.pdb

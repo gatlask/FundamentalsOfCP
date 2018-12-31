@@ -1,0 +1,6 @@
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex13\Swap\Swap\bin\Debug\Swap.exe.config
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex13\Swap\Swap\bin\Debug\Swap.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex13\Swap\Swap\bin\Debug\Swap.pdb
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex13\Swap\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex13\Swap\Swap\obj\Debug\Swap.exe
+D:\Training\FundamentalsOfCP\Ch2-PrTypesVars\Ex13\Swap\Swap\obj\Debug\Swap.pdb

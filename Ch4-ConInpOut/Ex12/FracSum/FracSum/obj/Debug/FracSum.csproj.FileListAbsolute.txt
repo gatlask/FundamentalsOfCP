@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex12\FracSum\FracSum\obj\Debug\FracSum.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex12\FracSum\FracSum\obj\Debug\FracSum.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex12\FracSum\FracSum\bin\Debug\FracSum.exe.config
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex12\FracSum\FracSum\bin\Debug\FracSum.exe
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex12\FracSum\FracSum\bin\Debug\FracSum.pdb
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex12\FracSum\FracSum\obj\Debug\FracSum.exe
+D:\Training\FundamentalsOfCP\Ch4-ConInpOut\Ex12\FracSum\FracSum\obj\Debug\FracSum.pdb

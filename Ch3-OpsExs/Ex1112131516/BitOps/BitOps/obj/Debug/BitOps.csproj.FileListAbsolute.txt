@@ -1,0 +1,7 @@
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1112131516\BitOps\BitOps\bin\Debug\BitOps.exe.config
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1112131516\BitOps\BitOps\bin\Debug\BitOps.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1112131516\BitOps\BitOps\bin\Debug\BitOps.pdb
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1112131516\BitOps\BitOps\obj\Debug\BitOps.csprojAssemblyReference.cache
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1112131516\BitOps\BitOps\obj\Debug\BitOps.csproj.CoreCompileInputs.cache
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1112131516\BitOps\BitOps\obj\Debug\BitOps.exe
+D:\Training\FundamentalsOfCP\Ch3-OpsExs\Ex1112131516\BitOps\BitOps\obj\Debug\BitOps.pdb
